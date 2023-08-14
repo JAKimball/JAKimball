@@ -1,5 +1,5 @@
 <div align="center" style="padding: 20px 0px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAKimball&theme=garden&card_width=800&background=355535&border=355535">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAKimball&theme=garden&card_width=840&background=53824f&border=53824f">
 </div>
 
 <!--
