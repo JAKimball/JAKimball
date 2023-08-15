@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "tomoyukim.vscode-mermaid-editor",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
