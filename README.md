@@ -2,6 +2,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JAKimball&theme=garden&card_width=840&background=447B43&border=355535&currStreakLabel=6AFF00&dates=6AFF00&sideLabels=6AFF00&fire=6AFF00">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAKimball&layout=compact&langs_count=8&theme=dark#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAKimball&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)
+
 <!--
 **JAKimball/JAKimball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
