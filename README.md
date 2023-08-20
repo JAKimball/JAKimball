@@ -4,7 +4,11 @@
 
 </div>
 
-I'm Jonathan Kimball. I'm a software engineer with a passion for learning and building things. I'm currently working on a few projects. I'm also looking for a job. If you're interested in hiring me, please reach out to me at
+I'm Jonathan Kimball. I'm a software engineer with a passion for learning and
+building things. I'm currently working on a few projects and working to make
+them open source and available on GitHub as time permits.
+<!-- I'm also looking for a job. If you're interested in hiring me, 
+please reach out to me at -->
 
 <div align="center" style="padding: 1em 0em 1em 0em">
 
