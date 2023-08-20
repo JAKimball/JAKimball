@@ -2,6 +2,12 @@
 
 # Hi there 👋
 
+</div>
+
+I'm Jonathan Kimball. I'm a software engineer with a passion for learning and building things. I'm currently working on a few projects. I'm also looking for a job. If you're interested in hiring me, please reach out to me at
+
+<div align="center" style="padding: 1em 0em 1em 0em">
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JAKimball&theme=garden&card_width=840&background=447B43&border=355535&currStreakLabel=6AFF00&dates=6AFF00&sideLabels=6AFF00&fire=6AFF00&stroke=6AFF00">
 
   <!--  -->
