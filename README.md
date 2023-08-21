@@ -27,6 +27,13 @@ please reach out to me at -->
 
 </div>
 
+<div>
+<img src="https://time-viewer.42tools.dev/assets/javascript-3691c274.svg" alt="mysql" width="40" height="40"/>
+<img src="https://time-viewer.42tools.dev/assets/typescript-icon-f2ca562b.svg" alt="mysql" width="40" height="40"/>
+<img src="https://time-viewer.42tools.dev/assets/react-35ef61ed.svg" alt="mysql" width="40" height="40"/>
+<img src="https://time-viewer.42tools.dev/assets/nodejs-icon-e3af091e.svg" alt="mysql" width="40" height="40"/>
+<img src="https://time-viewer.42tools.dev/assets/mongodb-4abd0a6b.svg" alt="mysql" width="40" height="40"/>
+</div>
 <!-- 
 [![Jonathan Kimball's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JAKimball&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Jonathan Kimball's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JAKimball&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
