@@ -12,7 +12,7 @@ please reach out to me at -->
 
 <div align="center" style="padding: 1em 0em 1em 0em">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAKimball&theme=garden&card_width=840&background=447B43&border=355535&currStreakLabel=6AFF00&dates=6AFF00&sideLabels=6AFF00&fire=6AFF00&stroke=6AFF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAKimball&theme=garden&card_width=840&background=30%2C447B43%2C295a28&border=355535&currStreakLabel=6AFF00&dates=6AFF00&sideLabels=6AFF00&fire=6AFF00&stroke=6AFF00">
 
   <!--  -->
 
@@ -28,11 +28,11 @@ please reach out to me at -->
 </div>
 
 <div>
-<img src="https://time-viewer.42tools.dev/assets/javascript-3691c274.svg" alt="mysql" width="40" height="40"/>
-<img src="https://time-viewer.42tools.dev/assets/typescript-icon-f2ca562b.svg" alt="mysql" width="40" height="40"/>
-<img src="https://time-viewer.42tools.dev/assets/react-35ef61ed.svg" alt="mysql" width="40" height="40"/>
-<img src="https://time-viewer.42tools.dev/assets/nodejs-icon-e3af091e.svg" alt="mysql" width="40" height="40"/>
-<img src="https://time-viewer.42tools.dev/assets/mongodb-4abd0a6b.svg" alt="mysql" width="40" height="40"/>
+<img src="./assets/javascript.svg" alt="mysql" width="40" height="40"/>
+<img src="./assets/typescript-icon.svg" alt="mysql" width="40" height="40"/>
+<img src="./assets/react.svg" alt="mysql" width="40" height="40"/>
+<img src="./assets/nodejs-icon.svg" alt="mysql" width="40" height="40"/>
+<img src="./assets/mongodb.svg" alt="mysql" width="40" height="40"/>
 </div>
 <!-- 
 [![Jonathan Kimball's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JAKimball&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
