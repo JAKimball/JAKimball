@@ -33,6 +33,7 @@ please reach out to me at -->
 <img src="./assets/react.svg" alt="mysql" width="40" height="40"/>
 <img src="./assets/nodejs-icon.svg" alt="mysql" width="40" height="40"/>
 <img src="./assets/mongodb.svg" alt="mysql" width="40" height="40"/>
+<img src="./assets/postgresql.svg" alt="mysql" width="40" height="40"/>
 <img src="./assets/tailwindcss-icon.svg" alt="mysql" width="40" height="40"/>
 </div>
 
