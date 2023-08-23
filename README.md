@@ -28,6 +28,9 @@ please reach out to me at -->
 </div>
 
 <div align="center">
+
+Javascript | Typescript | React | Node.js | MongoDB | PostgreSQL | TailwindCSS
+
 <img src="./assets/javascript.svg" alt="mysql" width="40" height="40"/>
 <img src="./assets/typescript-icon.svg" alt="mysql" width="40" height="40"/>
 <img src="./assets/react.svg" alt="mysql" width="40" height="40"/>
