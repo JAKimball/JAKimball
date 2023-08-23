@@ -29,15 +29,15 @@ please reach out to me at -->
 
 <div align="center">
 
-Javascript | Typescript | React | Node.js | MongoDB | PostgreSQL | TailwindCSS
+JavaScript | TypeScript | React | Node.js | MongoDB | PostgreSQL | TailwindCSS
 
-<img src="./assets/javascript.svg" alt="mysql" width="40" height="40"/>
-<img src="./assets/typescript-icon.svg" alt="mysql" width="40" height="40"/>
-<img src="./assets/react.svg" alt="mysql" width="40" height="40"/>
-<img src="./assets/nodejs-icon.svg" alt="mysql" width="40" height="40"/>
-<img src="./assets/mongodb.svg" alt="mysql" width="40" height="40"/>
-<img src="./assets/postgresql.svg" alt="mysql" width="40" height="40"/>
-<img src="./assets/tailwindcss-icon.svg" alt="mysql" width="40" height="40"/>
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img src="./assets/typescript-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://react.dev/"><img src="./assets/react.svg" alt="React" title="React" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/"><img src="./assets/nodejs-icon.svg" alt="Node.js" title="Node.js" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/"><img src="./assets/mongodb.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org/"><img src="./assets/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://tailwindcss.com/"><img src="./assets/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
 <!-- 
