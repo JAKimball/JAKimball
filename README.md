@@ -4,9 +4,8 @@
 
 </div>
 
-I'm Jonathan Kimball. I'm a software engineer with a passion for learning and
-building things. I'm currently working on a few projects and working to make
-them open source and available on GitHub as time permits.
+I'm Jonathan Kimball, a software engineer passionate about learning and building things. I am engaged in multiple projects. As time allows, I will make more of them available on GitHub.
+
 <!-- I'm also looking for a job. If you're interested in hiring me, 
 please reach out to me at -->
 
@@ -30,6 +29,8 @@ please reach out to me at -->
 <div align="center">
 
 JavaScript | TypeScript | React | Node.js | MongoDB | PostgreSQL | TailwindCSS
+
+<!-- TODO: Make links open on separate tabs -->
 
 <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img src="./assets/typescript-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40" style="max-width: 100%;"></a>
