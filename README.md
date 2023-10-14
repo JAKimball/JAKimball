@@ -64,6 +64,8 @@ please reach out to me at -->
   </a>
 </div>
 
+<!-- Linkedin badges -->
+<!-- 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
@@ -77,7 +79,7 @@ please reach out to me at -->
   <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-kimball?trk=profile-badge">
     Jonathan Kimball
   </a>
-</div>
+</div> -->
 
 <!-- 
 [![Jonathan Kimball's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JAKimball&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
