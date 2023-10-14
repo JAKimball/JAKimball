@@ -64,6 +64,21 @@ please reach out to me at -->
   </a>
 </div>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
+  data-theme="light" data-type="VERTICAL" data-vanity="jonathan-kimball" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-kimball?trk=profile-badge">
+    Jonathan Kimball
+  </a>
+</div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
+  data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-kimball" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-kimball?trk=profile-badge">
+    Jonathan Kimball
+  </a>
+</div>
+
 <!-- 
 [![Jonathan Kimball's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JAKimball&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Jonathan Kimball's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JAKimball&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
