@@ -78,23 +78,21 @@ Updated to use <picture> element instead.
 Probably not possible in GitHub markdown for security reasons, 
 but we can use it elsewhere. -->
 
-<iframe>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
-    data-theme="light" data-type="VERTICAL" data-vanity="jonathan-kimball" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-kimball?trk=profile-badge">
-      Jonathan Kimball
-    </a>
-  </div>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
-    data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-kimball" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-kimball?trk=profile-badge">
-      Jonathan Kimball
-    </a>
-  </div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
+  data-theme="light" data-type="VERTICAL" data-vanity="jonathan-kimball" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-kimball?trk=profile-badge">
+    Jonathan Kimball
+  </a>
+</div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
+  data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-kimball" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-kimball?trk=profile-badge">
+    Jonathan Kimball
+  </a>
+</div>
 
-  <script src="./src/linkedin/render-badges.js" async defer type="text/javascript"></script>
-  <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
-</iframe>
+<script src="./src/linkedin/render-badges.js" async defer type="text/javascript"></script>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 
 <!-- 
 [![Jonathan Kimball's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JAKimball&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
