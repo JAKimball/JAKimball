@@ -39,7 +39,7 @@ Updated to use <picture> element instead.
 
 <div align="center">
 
-  JavaScript | TypeScript | React | Node.js | MongoDB | PostgreSQL | TailwindCSS
+  JavaScript | TypeScript | React | Node.js | MongoDB | PostgreSQL | Tailwind CSS
 
   <!-- TODO: Make links open on separate tabs -->
 
